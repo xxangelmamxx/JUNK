@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Pework---Abha-Mam*
 
-**Name of your app** is a tip calculator application for iOS.
+**Pework---Abha-Mam** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Abha Mam**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
@@ -28,17 +28,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/NnzkAJT' title='Prework - Abha Mam' width='15s'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I realized while completing the project that I had and issue with storage, hence the app kept crashing causing me to keep restarting due to outlet placements. layout also played a big roll in setbacks.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Codepath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
